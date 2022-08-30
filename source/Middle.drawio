@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T17:35:36.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GEuVmzazDvUmTQMjnQ8X" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T17:39:51.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="UwZ3JjqqRquq254iu5XQ" version="20.2.7" type="github">
   <diagram id="kWV1w4FAC4IXIcKnAsgC" name="第 1 页">
     <mxGraphModel dx="1385" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,8 +283,8 @@
             <mxPoint x="261" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xOyAolYkLRZkem3QfIZ-21" value="喜欢学习新技术，" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="61" y="230" width="199" height="55.5" as="geometry" />
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-21" value="喜欢学习新技术，热爱开发，网络安全，可独立全栈开发，原生小程序开发，java开发，php开发，python开发，app混合开发(uniapp)，对自己的代码质量又要求，熟练使用git进行团队协作开发，熟练使用docker，喜欢共享代码给开源项目，喜欢业余写写小工具自用。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="61" y="230" width="199" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
