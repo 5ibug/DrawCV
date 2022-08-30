@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T17:04:23.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oOwWABliBX5tiDUqzB0u" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T17:13:58.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4zEYk_ZOI_KlihtZJCfq" version="20.2.7" type="github">
   <diagram id="kWV1w4FAC4IXIcKnAsgC" name="第 1 页">
     <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,8 +12,8 @@
         </mxCell>
         <mxCell id="hsqiQFNtVwB-LhybfyuJ-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="38" y="951.77" as="sourcePoint" />
-            <mxPoint x="788" y="951.77" as="targetPoint" />
+            <mxPoint x="38" y="380" as="sourcePoint" />
+            <mxPoint x="788" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hsqiQFNtVwB-LhybfyuJ-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#666666;" parent="1" edge="1">
@@ -34,7 +34,7 @@
         <mxCell id="hsqiQFNtVwB-LhybfyuJ-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="170" as="sourcePoint" />
-            <mxPoint x="280" y="1128.5" as="targetPoint" />
+            <mxPoint x="279" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hsqiQFNtVwB-LhybfyuJ-16" value="" style="endArrow=none;dashed=1;rounded=0;html=1;strokeColor=#666666;" parent="1" edge="1">
@@ -70,47 +70,8 @@
             <mxPoint x="262" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-40" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;中国人民大学&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#404964;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="60" y="718.77" width="119" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-41" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;华中科技大学&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#404964;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="60" y="777.77" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-42" value="研究生学业奖学金" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="61" y="434.5" width="143" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-44" value="2021 - 2023" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="178" y="723.77" width="85" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-45" value="2017 - 2021" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="178" y="782.77" width="85" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-48" value="三好学生奖学金" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="807.77" width="143" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-49" value="三好学生奖学金" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="830.77" width="143" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-51" value="三好学生奖学金" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#767B83;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="853.77" width="143" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-52" value="国家奖学金" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#404964;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="60" y="876.77" width="143" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-53" value="2021" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="233" y="750.27" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-55" value="2020" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="232" y="809.77" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-56" value="2019" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="232" y="832.77" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-58" value="2018" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="232" y="855.77" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="hsqiQFNtVwB-LhybfyuJ-59" value="2018" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#404964;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="232" y="878.77" width="30" height="20" as="geometry" />
+        <mxCell id="hsqiQFNtVwB-LhybfyuJ-42" value="第46届世界技能大赛黑龙江省选拔赛网站设计与开发项目第一名" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="61" y="420" width="143" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="csp5jKro6aII4pgKmo1C-1" value="工作经验" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=21;fontColor=#13273E;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="303" y="189" width="107" height="30" as="geometry" />
@@ -154,7 +115,7 @@
         <mxCell id="csp5jKro6aII4pgKmo1C-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;line-height: 1.6; font-size: 12px;&quot;&gt;云南赶马网络科技有限公司主要开发维护商城项目及短视频项目，原生开发ui，PHP开发接口，对称数据库采用MySQL，非对称数据库采用redis。&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; think PHP 计划任务性能优化&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 开发所需接口，开发活动折扣相关逻辑&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 接口速度优化，首页仪表盘接口性能优化了 80%&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 对项目进行安全测试，修复非授权访问等各类安全问题&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="303" y="440.5" width="466" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="csp5jKro6aII4pgKmo1C-30" value="&lt;p style=&quot;line-height: 1.6;&quot;&gt;黑龙江大数据产业发展有限公司是黑龙江省建投集团二级单位，国有控股，在单位内担任联合实验室高级经理，主要负责需求分析，全栈开发(包含小程序)，项目任务拆分按人员分配任务，协助项目课题申报，部分服务器运维等&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 工程质量检测平台开发，物联网设备接入&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 2022年重大成果转化课题申报&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 黑龙江省重要产业大数据综合服务平台开发&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 法务平台，协同办公，HCM，内网gitlab等平台维护&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="csp5jKro6aII4pgKmo1C-30" value="&lt;p style=&quot;line-height: 1.6;&quot;&gt;黑龙江大数据产业发展有限公司是黑龙江省建投集团二级单位，国有控股，在单位内担任联合实验室高级经理，主要负责需求分析，全栈开发(包含小程序)，项目任务拆分按人员分配任务，协助项目课题申报，部分服务器运维等&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 工程质量检测平台开发，物联网设备接入&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 2022年重大成果转化课题申报&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 黑龙江省中药产业大数据综合服务平台开发&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 法务平台，协同办公，HCM，内网gitlab等平台维护&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="303" y="267" width="466" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8V30FOKsPtYKY0wyYov8-1" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNjUzNDE1ODM0MTI0IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9Ijc0NzEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+PGRlZnM+PHN0eWxlIHR5cGU9InRleHQvY3NzIj5AZm9udC1mYWNlIHsgZm9udC1mYW1pbHk6IGZlZWRiYWNrLWljb25mb250OyBzcmM6IHVybCgiLy9hdC5hbGljZG4uY29tL3QvZm9udF8xMDMxMTU4X3U2OXc4eWh4ZHUud29mZjI/dD0xNjMwMDMzNzU5OTQ0IikgZm9ybWF0KCJ3b2ZmMiIpLCB1cmwoIi8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTAzMTE1OF91Njl3OHloeGR1LndvZmY/dD0xNjMwMDMzNzU5OTQ0IikgZm9ybWF0KCJ3b2ZmIiksIHVybCgiLy9hdC5hbGljZG4uY29tL3QvZm9udF8xMDMxMTU4X3U2OXc4eWh4ZHUudHRmP3Q9MTYzMDAzMzc1OTk0NCIpIGZvcm1hdCgidHJ1ZXR5cGUiKTsgfQo8L3N0eWxlPjwvZGVmcz48cGF0aCBkPSJNOTQyLjA4IDczOC4zMDRjLTI1LjYtMjMuNTUyLTU1LjI5Ni00Ny4xMDQtNzYuOC02MS40NC0yNy42NDgtMTkuNDU2LTU3LjM0NC0zOC45MTItODQuOTkyLTUxLjItNDMuMDA4LTIxLjUwNC01OS4zOTItMjUuNi03MC42NTYtMjUuNi0xOS40NTYgMC0zNS44NCAxMC4yNC01MS4yIDI5LjY5Ni04LjE5MiAxMi4yODgtMTcuNDA4IDI5LjY5Ni0yMy41NTIgNDUuMDU2LTQuMDk2IDEwLjI0LTEyLjI4OCAyNy42NDgtMTcuNDA4IDMzLjc5Mi04LjE5Mi0yLjA0OC0zMS43NDQtMTIuMjg4LTcwLjY1Ni0zNy44ODgtMzUuODQtMjUuNi03NC43NTItNTcuMzQ0LTEwNC40NDgtODQuOTkyLTI5LjY5Ni0yOS42OTYtNTkuMzkyLTY4LjYwOC04NC45OTItMTA0LjQ0OC0yNS42LTM3Ljg4OC0zNS44NC02MS40NC0zNy44ODgtNzAuNjU2IDYuMTQ0LTQuMDk2IDIzLjU1Mi0xMi4yODggMzMuNzkyLTE3LjQwOCAxNS4zNi02LjE0NCAzMS43NDQtMTIuMjg4IDQ1LjA1Ni0yMy41NTIgMjEuNTA0LTE1LjM2IDI5LjY5Ni0zMS43NDQgMjkuNjk2LTUxLjIgMC0xMC4yNC0yLjA0OC0yNy42NDgtMjUuNi03MC42NTYtMTIuMjg4LTI1LjYtMzEuNzQ0LTU1LjI5Ni01MS4yLTg0Ljk5Mi0xNS4zNi0yMS41MDQtMzguOTEyLTUxLjItNjEuNDQtNzYuOC0yNy42NDgtMjcuNjQ4LTQ3LjEwNC00MC45Ni02Ni41Ni00MC45Ni00Ny4xMDQgMC0xMDAuMzUyIDY4LjYwOC0xMTQuNjg4IDg3LjA0LTE5LjQ1NiAyNS42LTY2LjU2IDk2LjI1Ni02Ni41NiAxNTkuNzQ0IDAgNTkuMzkyIDQwLjk2IDEzOC4yNCA3NC43NTIgMTk0LjU2IDQ1LjA1NiA3Mi43MDQgMTA4LjU0NCAxNTMuNiAxNzcuMTUyIDIyNC4yNTZsMjEuNTA0IDIxLjUwNCAwIDBjNzAuNjU2IDY4LjYwOCAxNDkuNTA0IDEzMi4wOTYgMjI0LjI1NiAxNzcuMTUyIDIzLjU1MiAxNS4zNiA1MS4yIDI5LjY5NiA3OC44NDggNDMuMDA4bDAgMGM0LjA5NiAyLjA0OCA2LjE0NCAyLjA0OCAxMC4yNCAyLjA0OCAxNS4zNiAwIDI3LjY0OC0xMi4yODggMjcuNjQ4LTI3LjY0OCAwLTEwLjI0LTYuMTQ0LTIxLjUwNC0xNy40MDgtMjUuNi0yMS41MDQtMTAuMjQtNDUuMDU2LTIzLjU1Mi03MC42NTYtMzguOTEyLTcwLjY1Ni00My4wMDgtMTQ1LjQwOC0xMDIuNC0yMTIuOTkyLTE2OC45NmwtMjEuNTA0LTIxLjUwNGMtNjYuNTYtNjguNjA4LTEyNS45NTItMTQzLjM2LTE2OC45Ni0yMTIuOTkyLTQzLjAwOC02OC42MDgtNjYuNTYtMTI4LTY2LjU2LTE2My44NCAwLTMxLjc0NCAxOS40NTYtNzguODQ4IDUzLjI0OC0xMjMuOTA0IDE1LjM2LTE5LjQ1NiAyOS42OTYtMzcuODg4IDQ1LjA1Ni01MS4yIDE1LjM2LTEzLjMxMiAyMy41NTItMTcuNDA4IDI3LjY0OC0xNy40MDggMTAuMjQgNC4wOTYgNDMuMDA4IDMxLjc0NCA4Ny4wNCA5OC4zMDQgMTcuNDA4IDI1LjYgMzMuNzkyIDUxLjIgNDUuMDU2IDc0Ljc1MiAxNS4zNiAyNy42NDggMTcuNDA4IDQwLjk2IDE3LjQwOCA0My4wMDggMCAwLTQuMDk2IDQuMDk2LTEwLjI0IDguMTkyLTguMTkyIDQuMDk2LTIxLjUwNCAxMC4yNC0zMS43NDQgMTUuMzYtMTUuMzYgNi4xNDQtMjcuNjQ4IDEyLjI4OC00MC45NiAxOS40NTYtMTkuNDU2IDEyLjI4OC0yNy42NDggMjcuNjQ4LTI3LjY0OCA0NS4wNTYgMCA4LjE5MiAwIDMzLjc5MiA0OS4xNTIgMTA0LjQ0OCAyNS42IDM3Ljg4OCA1OS4zOTIgODAuODk2IDkyLjE2IDExMi42NGwwIDBjMzEuNzQ0IDMxLjc0NCA3NC43NTIgNjYuNTYgMTEyLjY0IDkyLjE2IDcwLjY1NiA0Ny4xMDQgOTYuMjU2IDQ5LjE1MiAxMDQuNDQ4IDQ5LjE1MmwwIDBjMTcuNDA4IDAgMzEuNzQ0LTguMTkyIDQ1LjA1Ni0yNy42NDggOC4xOTItMTAuMjQgMTIuMjg4LTI1LjYgMTkuNDU2LTQwLjk2IDQuMDk2LTEwLjI0IDEwLjI0LTIzLjU1MiAxNS4zNi0zMS43NDQgNi4xNDQtNC4wOTYgMTAuMjQtNi4xNDQgMTAuMjQtNi4xNDQgMi4wNDggMCAxNS4zNiAyLjA0OCA0My4wMDggMTcuNDA4IDIxLjUwNCAxMi4yODggNDkuMTUyIDI3LjY0OCA3NC43NTIgNDUuMDU2IDYzLjQ4OCA0NS4wNTYgOTQuMjA4IDc2LjggOTguMzA0IDg3LjA0LTIuMDQ4IDQuMDk2LTYuMTQ0IDEyLjI4OC0xNy40MDggMjcuNjQ4LTEyLjI4OCAxNS4zNi0zMS43NDQgMzEuNzQ0LTUxLjIgNDUuMDU2LTI5LjY5NiAyMS41MDQtNjEuNDQgMzguOTEyLTg3LjA0IDQ3LjEwNGwwIDBjLTEwLjI0IDQuMDk2LTE3LjQwOCAxNS4zNi0xNy40MDggMjUuNiAwIDE1LjM2IDEyLjI4OCAyNy42NDggMjcuNjQ4IDI3LjY0OCAyLjA0OCAwIDQuMDk2IDAgNi4xNDQtMi4wNDhsMCAwYzIuMDQ4IDAgMi4wNDggMCA0LjA5Ni0yLjA0OGwwIDBjNDUuMDU2LTE1LjM2IDgyLjk0NC00MC45NiAxMDIuNC01NS4yOTYgMjEuNTA0LTE1LjM2IDg3LjA0LTcwLjY1NiA4Ny4wNC0xMTUuNzEyQzk4Mi4wMTYgNzg1LjQwOCA5NjkuNzI4IDc2NS45NTIgOTQyLjA4IDczOC4zMDR6IiBwLWlkPSI3NDcyIiBmaWxsPSIjMzMzMzMzIj48L3BhdGg+PC9zdmc+;" parent="1" vertex="1">
@@ -268,20 +229,20 @@
         <mxCell id="csp5jKro6aII4pgKmo1C-41" value="&lt;p style=&quot;line-height: 1.6;&quot;&gt;使用 C++ 实现的 Web 服务器原型，能够对多种类型的 HTTP 请求报文进行解析，并构建响应报文。实现了系统对于网络请求的多线程响应，并基于 Qt 实现了易于操作的图形界面。系统具备一定的异常处理功能。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="305" y="1101.77" width="474" height="55.73" as="geometry" />
         </mxCell>
-        <mxCell id="csp5jKro6aII4pgKmo1C-34" value="Monte Carlo 路径追踪渲染器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Source Han Sans;fontStyle=1;fontColor=#404964;" parent="1" vertex="1">
+        <mxCell id="csp5jKro6aII4pgKmo1C-34" value="工程质量检测平台" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Source Han Sans;fontStyle=1;fontColor=#404964;" parent="1" vertex="1">
           <mxGeometry x="309" y="779.77" width="416" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="csp5jKro6aII4pgKmo1C-36" value="2022.6" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="csp5jKro6aII4pgKmo1C-36" value="2022.8" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="729" y="781.77" width="46" height="14" as="geometry" />
         </mxCell>
         <mxCell id="csp5jKro6aII4pgKmo1C-37" value="&lt;p style=&quot;line-height: 1.6;&quot;&gt;基于 C++ 实现的 Monte Carlo 路径追踪渲染器；加速结构采用 BVH 与 SAH，可动态增删节点；实现了多线程渲染，同等条件下渲染耗时减少 30%；采用联合双边滤波降噪，提升渲染质量。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="309" y="806.77" width="466" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="csp5jKro6aII4pgKmo1C-42" value="Mini C 语言编译器设计与实现" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Source Han Sans;fontStyle=1;fontColor=#404964;" parent="1" vertex="1">
+        <mxCell id="csp5jKro6aII4pgKmo1C-42" value="黑龙江省中药产业大数据综合服务平台" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Source Han Sans;fontStyle=1;fontColor=#404964;" parent="1" vertex="1">
           <mxGeometry x="309" y="875.54" width="416" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="csp5jKro6aII4pgKmo1C-43" value="2020.3" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="728" y="878.54" width="47" height="14" as="geometry" />
+        <mxCell id="csp5jKro6aII4pgKmo1C-43" value="2022.8" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="728" y="880" width="47" height="12.54" as="geometry" />
         </mxCell>
         <mxCell id="csp5jKro6aII4pgKmo1C-44" value="&lt;p style=&quot;line-height: 1.6;&quot;&gt;在 Flex 和 Bison 的基础上，使用 C 语言实现了一个 C 语言子集 Mini-C 的编译器，能够编译输出形式为 MIPS 汇编指令的目标代码。系统支持分支循环、多维数组等基本语言特性。最终系统能够编译具有一定复杂度的测试程序。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="309" y="902.54" width="466" height="55" as="geometry" />
@@ -303,6 +264,33 @@
         </mxCell>
         <mxCell id="-xOyAolYkLRZkem3QfIZ-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;line-height: 1.6; font-size: 12px;&quot;&gt;昆明京挚互联网科技有限公司是一家初创公司，主营网络安全业务，在公司负责官网开发维护，服务器运维，公司论坛维护，python爬虫开发，渗透测试等。&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 使用think PHP框架开发公司blog&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 服务器日常运维&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; python爬取潜在客户信息，进行数据清洗&lt;br&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp; 对目标客户进行渗透测试，编写测试报告&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="308" y="604.5" width="466" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-5" value="2020" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="232" y="434.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-6" value="第45届世界技能大赛黑龙江省选拔赛网站设计与开发项目第三名" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="60" y="475.5" width="143" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-7" value="2018" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="232" y="490" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-8" value="全国中等职业学院信息技术技能大赛网站建设与管理(CMS)赛项荣获二等奖" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="61" y="531" width="143" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-9" value="2017" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="233" y="545.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-10" value="2018年度劳动出版“技能雏鹰”奖学金" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="61" y="586.5" width="143" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-11" value="2018" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="233" y="601" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-12" value="第46届世界技能大赛中国赛区选拔赛网站设计与开发项目第九名" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="61" y="642" width="143" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-xOyAolYkLRZkem3QfIZ-13" value="2021" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="232" y="651.5" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
